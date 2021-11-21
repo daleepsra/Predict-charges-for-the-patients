@@ -26,6 +26,4 @@ OUTPUT-
 
 
 <h2> FLOW CHART </h2>
-
-![image](https://user-images.githubusercontent.com/85610854/142771678-bf1c2408-a848-41d9-964f-1388ba0aae24.png)
-
+![image](https://user-images.githubusercontent.com/85610854/142773594-d7ba2ff7-01c1-4d8b-ab83-d747a810b718.png)
