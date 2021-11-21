@@ -18,9 +18,10 @@ This Project takes information about a patient's age,bmi,sex,region and image an
 
 
 ### I/O
-
+INPUT-
 ![image](https://user-images.githubusercontent.com/85610854/142770441-321268db-bd84-463c-aded-6a273465d2dd.png)
 
+OUTPUT-
 ![image](https://user-images.githubusercontent.com/85610854/142770465-4559fd6e-32f0-49d8-9f35-adecfb9f3f0b.png)
 
 
